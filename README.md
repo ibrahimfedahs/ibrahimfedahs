@@ -30,7 +30,7 @@ class Ibrahim:
         self.story     = "Started with zero coding experience. Now building models."
 
     def current_mission(self):
-        return "Final-year project: a RAG-powered document Q&A system"
+        return "Final-year project: a AI-models document Q&A system"
 ```
 
 <br/>
